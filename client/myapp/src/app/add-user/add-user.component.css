@@ -1,0 +1,38 @@
+.newUserDiv {
+    border-style: solid;
+    border-color: rgb(255, 0, 200);
+    border-width: 2px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 100%;
+    margin-left: 15%;
+    margin-top: 52px;
+    height: 182px;
+}
+
+.detailsContainer {
+    padding: 10px;
+}
+
+.header {
+    font-size: 22px;
+    text-decoration: underline;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.detailsDiv {
+    display: flex;
+    flex-direction: row;
+}
+
+.nameEmail {
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+.btns {
+    width: 90px;
+    height: 25px;
+    font-size: 18px;
+    margin: 10px;
+}

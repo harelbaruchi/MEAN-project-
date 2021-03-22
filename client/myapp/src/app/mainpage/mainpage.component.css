@@ -1,0 +1,9 @@
+.mainDiv{
+    display: flex;
+   
+}
+
+.listDiv{
+    float:   left;
+    width:   50%;
+} 
